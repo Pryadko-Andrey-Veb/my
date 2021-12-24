@@ -24,7 +24,7 @@ body {
 
 @font-face {
   font-family: 'Lato';
-  src: url('/fonts/Lato-Light\ 300.woff');
+  src: url('fonts/Lato-Light\ 300.woff');
   font-weight: 300;
   font-display: swap;
   font-style: normal;
@@ -32,7 +32,7 @@ body {
 
 @font-face {
   font-family: 'Lato';
-  src: url('/fonts/Lato-Regular400.woff');
+  src: url('fonts/Lato-Regular400.woff');
   font-weight: 400;
   font-display: swap;
   font-style: normal;
@@ -40,7 +40,7 @@ body {
 
 @font-face {
   font-family: 'Lato';
-  src: url('/fonts/Lato-Bold700.woff');
+  src: url('fonts/Lato-Bold700.woff');
   font-weight: 700;
   font-display: swap;
   font-style: normal;
@@ -48,7 +48,7 @@ body {
 
 @font-face {
   font-family: 'Montserrat';
-  src: url('/fonts/Montserrat-Regular400.woff');
+  src: url('fonts/Montserrat-Regular400.woff');
   font-weight: 400;
   font-display: swap;
   font-style: normal;
@@ -56,7 +56,7 @@ body {
 
 @font-face {
   font-family: 'Montserrat';
-  src: url('/fonts/Montserrat-Medium.woff');
+  src: url('fonts/Montserrat-Medium.woff');
   font-weight: 500;
   font-display: swap;
   font-style: normal;
@@ -64,7 +64,7 @@ body {
 
 @font-face {
   font-family: 'Montserrat';
-  src: url('/fonts/Montserrat-ExtraBold700.woff');
+  src: url('fonts/Montserrat-ExtraBold700.woff');
   font-weight: 700;
   font-display: swap;
   font-style: normal;
@@ -453,7 +453,7 @@ ul {
   z-index: 2;
   width: 120px;
   height: 120px;
-  background-image: url("/ipg/circl.png");
+  background-image: url("../ipg/circl.png");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center 0;
